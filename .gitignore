@@ -1,4 +1,4 @@
-brightside-cics-plugin.iml
+*.iml
 node_modules/
 lib/
 .vscode
